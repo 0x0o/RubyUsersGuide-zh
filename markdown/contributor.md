@@ -28,3 +28,7 @@
 
 **GuangyuLeo**对[《起步》](./getstarted.md.md "Getting started")的细小错误进行了修正。:clap:
 
+7.[clownf](https://github.com/clownf)
+
+**clownf**对[《起步》](./getstarted.md.md "Getting started")的细小错误进行了修正。:clap:
+
