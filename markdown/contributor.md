@@ -25,5 +25,6 @@
 **genghisun**对[《局部变量》](./localvars.md "Local variables")的翻译稍加润色。:clap:
 
 6.[GuangyuLeo](https://github.com/GuangyuLeo)
+
 **GuangyuLeo**对[《起步》](./getstarted.md.md "Getting started")的细小错误进行了修正。:clap:
 
